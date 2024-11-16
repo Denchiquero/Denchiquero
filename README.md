@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Denchiquero
 - 👀 I’m interested in programming different interesting things
-- 🌱 I’m currently learning Python
-- 🤯 Assembler is something unbelievable
+- 🌱 I’m currently learning Python, C++, C#, Java
+- 🤯 Assembler is fun
 - 📫 How to reach me: denis@krutov.com
 
 <!---
